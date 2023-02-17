@@ -1,2 +1,2 @@
 # Hangman_FullGame
-Created in C. Run it in Linux/WSL
+Created in C. Run in Linux/WSL
